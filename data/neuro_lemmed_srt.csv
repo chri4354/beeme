@@ -1,0 +1,85 @@
+3,"00:03:47,287",leave+v room+n,leave the room
+11,"00:04:37,041",look+v,look around
+14,"00:04:53,415",find+v kitchen+n,find the kitchen
+18,"00:05:27,975",look+v mug+v,look for a mug
+33,"00:07:17,046",make+v cup+n coffee+n,make a cup of coffee
+37,"00:07:26,912",leave+v room+n,leave the room
+40,"00:07:40,050",pick+v nose+n,pick your nose
+42,"00:07:50,967",explore+v,explore your surrounding
+44,"00:08:14,975",look+v,look around
+46,"00:08:32,868",dance+v,dance
+48,"00:09:33,571","say+v ""ibeback""+n","say ""i will be back"""
+50,"00:09:56,943",explore+v surroundings+n,explore your surroundings
+52,"00:10:07,443",look+v mug+v,look for a mug
+57,"00:10:53,831",make+v cup+n coffee+n,make a cup of coffee
+68,"00:12:33,568",smash+v cup+n,smash the cup
+73,"00:13:17,383",explore+v,explore your surrounding
+77,"00:13:53,436",clean+v floor+n,clean the floor
+86,"00:14:47,295",clean+v floor+n,clean the floor
+99,"00:17:18,236",jump+v,jump
+101,"00:17:40,401",stop+v jump+n,stop jumping
+104,"00:18:07,618",walk+v,walk around
+105,"00:18:28,556",repeat+v mission+n,repeat mission(?)
+110,"00:18:58,682",look+v corridor+n,look for the infinite corridor
+113,"00:19:46,064",move+v,move faster
+115,"00:20:14,187",sing+v while+n walk+n,sing while walking
+117,"00:20:35,963",stop+v sing+n,stop singing
+118,"00:21:16,698",sing+v,never sing again
+120,"00:21:34,256",walk+v corridor+n,walk toward the infinite corridor
+132,"00:24:06,918",lie+v,lie down
+133,"00:24:12,426",stand+v,stand up
+135,"00:24:40,290",touch+v,touch your feet
+139,"00:25:28,238",look+v garbage+n,look in the garbage
+145,"00:26:36,217",talk+v people+n,talk to people
+161,"00:27:18,075","scream+v ""wheretheobject""+n","scream ""where is the object"""
+180,"00:28:14,728",walk+v corridor+n,walk through the corridor
+181,"00:28:30,295","scream+v ""vivalaperu""+n","scream ""viva la peru"""
+183,"00:28:45,728",stop+v corridor+n,stop halfway through the corridor
+190,"00:29:13,708",ask+v repeat+v,ask alan to repeat himself
+197,"00:29:25,807",inspect+v object+n,inspect object
+203,"00:29:48,498",try+v open+v object+n,try to open the object
+220,"00:31:07,022",lift+v object+n,lift object
+221,"00:31:22,910",lick+v object+n,lick the object
+223,"00:31:45,896",locate+n alchemist+n,locating alchemist
+226,"00:32:09,151","yell+v ""iamagoodboy""+n","yell ""i am a good boy"""
+228,"00:32:24,230",run+v,run
+231,"00:32:57,322",yell+v alchemist+n,yell where is the alchemist
+236,"00:33:28,665",dance+v,dance
+239,"00:34:04,791",jump+v,jump
+240,"00:34:14,750",dance+v object+n,dance with the object
+252,"00:35:32,429",go+v,go outside
+267,"00:37:02,172",make+v,make a backflip
+273,"00:37:23,086",turn+v,turn around
+274,"00:37:34,829",lie+v street+n,lie on the street
+275,"00:37:50,672",do+v push+v up+v,do push ups
+276,"00:38:10,747",get+v,get up
+277,"00:38:30,161",find+v alchemist+n statue+n,find the alchemist statue
+283,"00:39:16,589",enter+v statue+n,enter the statue
+285,"00:39:26,373",look+v,look around
+298,"00:41:07,276",go+v build+n wait+v instruction+n,"go to building 7, wait for instructions"
+301,"00:42:09,700",speak+v spanish+n,speak spanish
+304,"00:42:40,660",cross+v street+n,cross the street
+305,"00:42:57,693",tell+v joke+n,tell a joke
+309,"00:43:26,200",give+v compliment+n person+n find+v,give a compliment to the next person you find
+313,"00:43:46,074",go+v build+n,go to building 7
+331,"00:45:34,781",find+v woman+n,find woman
+335,"00:45:47,475",introduce+v,introduce yourself
+341,"00:46:11,636",kiss+v,kiss her feet
+350,"00:46:48,295",winter+n,high five winter
+376,"00:49:17,548",do+v helicopter+n,do the helicopter
+381,"00:50:11,365",hug+v winter+n,hug winter
+398,"00:51:40,446",hug+v winter+n,hug winter
+403,"00:51:56,393",approach+v winter+n find+v code+n,approach winter to find her code
+409,"00:52:18,898",say+v yes+n like+v pasta+n,say yes you like pasta
+413,"00:52:31,953",say+v yes+n,say yes
+421,"00:53:09,681",share+v code+n winter+n,share the code with winter
+448,"00:55:22,090",walk+v build+n,walk toward building 32
+449,"00:55:28,453",run+v,run
+451,"00:56:21,217",walk+v corridor+n,walk down the infinite corridor
+453,"00:56:40,497","say+v ""zackiloveyousomuch""+n","say ""zack i love you so much"""
+458,"00:57:47,001",scream+v,scream
+461,"00:58:32,286",sing+v baby+n shark+n,sing baby shark
+465,"00:58:44,901",stop+v sing+n,stop singing
+471,"01:00:11,025",howl+n like+v dog+n,howl like a dog
+473,"01:00:52,456",stop+v,stop
+504,"01:04:31,131",save+v winter+n,save winter

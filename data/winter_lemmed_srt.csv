@@ -1,0 +1,93 @@
+9,"00:03:31,882",make+v coffee+n,make coffee
+18,"00:05:53,904",open+v fridge+n,open fridge
+21,"00:06:15,592",close+v fridge+n,close fridge
+23,"00:06:42,849",walk+v room+n,walk out of room
+27,"00:07:31,784",make+v tea+n,make tea
+29,"00:08:05,828",make+v earl+n tea+n,make earl grey tea
+33,"00:09:05,471",sing+v song+n,sing song
+34,"00:09:15,581",drink+v tea+n,drink tea
+37,"00:09:28,414",sing+v birthday+n,sing happy birthday
+41,"00:09:41,548",dump+v tea+n sink+v,dump tea in the sink
+56,"00:11:21,791",walk+v room+n,walk out of room
+59,"00:11:46,085",cry+v,cry
+61,"00:11:55,374",walk+v hall+n,walk down the hall
+63,"00:12:12,199",go+v left+n,go left
+65,"00:12:29,074",exit+n build+n,exit the building
+68,"00:13:17,087",exit+n door+n,exit door
+74,"00:14:02,976",walk+v,walk straight
+76,"00:14:21,741",continue+v walk+v,continue to walk
+78,"00:14:36,627",go+v light+n,go to the blue light
+80,"00:15:12,723",ask+v infinity+n corridor+n,ask for the infinity corridor
+93,"00:15:55,102",continue+v light+n,continue to the blue light
+97,"00:17:12,111",head+n corridor+n,head to the infinite corridor
+103,"00:18:27,272",sing+v stay+v or+n go+v,sing 'should i stay or should i go'
+107,"00:18:48,831",sing+v,sing ymca
+113,"00:19:17,232",stop+v sing+n,stop singing
+115,"00:19:37,192",ask+v direction+n,ask for directions
+116,"00:21:04,017",go+v corridor+n,go to infinite corridor
+123,"00:22:00,240",ask+v,ask where zookd is
+132,"00:22:22,005",continue+v corridor+n,continue to the infinite corridor
+136,"00:22:56,492",dance+v hallway+n,dance in the hallway
+140,"00:23:28,873",turn+v left+n,turn left
+141,"00:23:30,666",run+v,run
+145,"00:24:04,309",stop+v run+n,stop running
+150,"00:24:22,485",put+v shoe+n head+n,put shoe on head
+158,"00:25:15,421",continue+v look+v object+n,continue to look for object
+163,"00:25:51,200",look+v people+n,look for people
+166,"00:26:16,400",look+v people+n ask+v object+n,look for people and ask where the object is
+169,"00:27:12,588",ask+v stranger+n,ask a stranger for $5
+170,"00:27:20,812",find+v people+n,find people
+176,"00:28:14,769",enter+v room+n,enter room 103
+179,"00:28:41,388",ask+v help+v,ask for help
+194,"00:30:49,005",find+v people+n,find new people
+201,"00:31:33,222",ask+v alchemist+n,ask her where the alchemist is
+214,"00:32:07,575",go+v alchemist+n,go to the alchemist
+223,"00:33:36,229",walk+v,walk faster
+225,"00:33:52,149",execute+v order+n,execute order 66
+237,"00:35:11,940",ask+v people+n help+v,ask people for help
+265,"00:36:51,824",go+v,go out
+276,"00:38:12,400",go+v statue+n,go to the white statue
+281,"00:39:14,690",press+v cross+v walk+v button+n,press cross walk button
+305,"00:40:54,542",follow+v dude+n,follow blue dude
+321,"00:42:16,307",scream+v assemble+v,scream averngers assemble
+331,"00:42:44,937",follow+v,follow alan
+346,"00:44:07,159",talk+v man+n jacket+n,talk to man in blue jacket
+356,"00:44:34,601",say+v hello+n,say hello to neuro
+357,"00:44:37,004",high-five+n,high-five neuro
+359,"00:44:47,537",ask+v he+n like+v shoe+n,ask neuro if he likes your shoes
+375,"00:46:09,908",gather+v crowd+n speech+n,gather the crowd with a speech
+381,"00:46:26,893",hug+v,hug neuro
+394,"00:47:05,718",ask+v he+n have+n fun+n,ask neuro if he's having fun
+397,"00:47:14,448",tell+v go+v,tell alan to go away
+400,"00:47:21,633",take+v object+n,take object from alan
+403,"00:47:33,240",ask+v who+n he+n,ask neuro who he is
+425,"00:49:25,470",ask+v he+n want+v team+n,ask neuro if he wants to team up with you
+433,"00:49:46,936",ask+v he+n code+n,ask neuro if he has code
+439,"00:50:07,902",ask+v he+n like+v thumb+n wrestle+v,ask neuro if he'd like to thumb wrestle
+450,"00:50:51,644",share+v code+n,share your code
+478,"00:52:51,970",go+v,go inside bulding 32
+480,"00:53:10,393",ask+v he+n,ask alan if he's human
+485,"00:53:22,857",run+v build+n,run to building 32
+488,"00:53:46,962",scream+v liar+n,scream 'alan is a liar!'
+497,"00:54:32,732","scream+v ""i+n","scream ""i'm forrest gump!"""
+498,"00:54:40,671",go+v amphitheatre+n,go to the amphitheatre outside bulding 32
+510,"00:56:33,136",find+v computer+n,find the computer
+517,"00:57:18,660",ask+v beard+n direction+n,ask beard for directions to bulding 32
+524,"00:57:40,724",follow+v beard+n man+n,follow beard man
+529,"00:58:02,211",ask+v man+n name+n,ask for the man's name
+532,"00:58:10,584",blah+n blah+n,blah blah?
+537,"00:58:23,399","say+v ""dazafriend""+n","say ""daza friend"""
+538,"00:58:27,742","say+v ""dazacoolguy""+n","say ""daza cool guy"""
+543,"00:58:44,161",ask+v he+n,ask daza if he is zookd
+549,"00:59:02,585","say+v ""dazatheultimatelifeform""+n","say, ""daza is the ultimate lifeform"""
+552,"00:59:13,953",lead+v follower+n conga+v line+n,lead your followers in a conga line
+594,"01:02:30,628",don+v sacrifice+v,don't sacrifice neuro
+601,"01:03:00,278",unplug+v keyboard+n,unplug the keyboard
+621,"01:04:17,018",yell+v at+n,yell at alan
+623,"01:04:22,116",ask+v thought+n ai+n,ask alan his thoughts on ai
+628,"01:04:41,653",walk+v,walk faster
+629,"01:04:57,389",go+v party+n,go to the party
+630,"01:05:04,904","say+v ""elementarymydearalan""+n","say ""elementary my dear alan"""
+632,"01:05:24,284","scream+v ""whereneuro+n","scream, ""where is neuro?"""
+640,"01:06:08,756",go+v party+n,go to the party
+647,"01:06:38,362",follow+v party+n,follow daza and alan to the party
